@@ -44,7 +44,9 @@
 
 ###
 
-<h3 align="left">🧮 Calculadora Web</h3>
+<h3 align="left">🧮 <a href="https://github.com/WillzCarvalho/Calculadora-js.git" target="_blank">
+  Calculadora Web</a>
+</h3>
 
 ###
 
@@ -52,7 +54,8 @@
 
 ###
 
-<h3 align="left">📖 Projeto academico</h3>
+<h3 align="left">📖 <a href="https://github.com/WillzCarvalho/e-library.git">Projeto academico</a>
+</h3>
 
 ###
 
