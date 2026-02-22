@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">📖 <a href="https://github.com/WillzCarvalho/e-library.git">E-libray</a>
+<h3 align="left">📖 <a href="https://github.com/WillzCarvalho/e-library.git">E-library</a>
 </h3>
 
 ###
