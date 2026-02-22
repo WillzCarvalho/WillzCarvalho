@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Aplicação desenvolvida com HTML, CSS e JavaScript.<br>- Operações matemáticas básicas<br>- Manipulação de DOM<br>- Layout responsivo</p>
+<p align="left">Aplicação desenvolvida com HTML, CSS e JavaScript.<br>- Operações matemáticas básicas<br>- Manipulação de DOM<br>- CSS Grid</p>
 
 ###
 
